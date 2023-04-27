@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yinwenbing&#39;s Blog</title>
+  
+  
+  <link href="http://yinwenbing.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://yinwenbing.github.io/"/>
+  <updated>2023-04-27T02:04:58.662Z</updated>
+  <id>http://yinwenbing.github.io/</id>
+  
+  <author>
+    <name>Yinwenbing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>回到武汉</title>
+    <link href="http://yinwenbing.github.io/2020/07/05/back-to-wuhan/"/>
+    <id>http://yinwenbing.github.io/2020/07/05/back-to-wuhan/</id>
+    <published>2020-07-05T10:02:00.000Z</published>
+    <updated>2023-04-27T02:04:58.662Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;此刻，外面正淅淅沥沥的下着雨，我在房间里，敲着键盘，吹着风扇，年年在一旁玩耍。&lt;/p&gt;
+&lt;p&gt;2020年6月2日，我离开了工作生活四年的北京，来到武汉。到现在，已经一月有余。&lt;/p&gt;
+&lt;p&gt;年年是我来武汉后，养的一只小猫，全身黑色，是蓝猫和田园猫的后代。很聪明，但也很调皮。</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Life" scheme="http://yinwenbing.github.io/tags/Life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>写在2016年的最后一天 - 我的第一年工作总结</title>
+    <link href="http://yinwenbing.github.io/2016/12/31/2016-summary/"/>
+    <id>http://yinwenbing.github.io/2016/12/31/2016-summary/</id>
+    <published>2016-12-31T23:24:00.000Z</published>
+    <updated>2023-04-27T02:04:58.662Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt; 2016年即将结束，转眼间，这已经是我参加工作的第七个月了。看到园子里很多人都写了年终总结，我也想写点什么，来纪念我的2016。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;工作&quot;&gt;&lt;a href=&quot;#工作&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Life" scheme="http://yinwenbing.github.io/tags/Life/"/>
+    
+  </entry>
+  
+</feed>
